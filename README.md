@@ -204,6 +204,7 @@ If New Feature is work proper than we want merge this Features in **master** bra
 ![image](https://drive.google.com/uc?export=view&id=1pN7hkrYWeCckzp0uSLx7y_ocaNCINVFF)
 
 If New Feature is Not working proper or Afer merging branch to **master**, we want delete this branch like :
+
 ![image](https://drive.google.com/uc?export=view&id=1SsM1x_avpXh8JT4PO93rvXMnYrj3l_5T)
 
 Check list of Branch and Active Branch -
