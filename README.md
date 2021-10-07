@@ -40,6 +40,7 @@ When we initialiazing git then it create Branch automatic. It is Main Branch and
 ![image](https://drive.google.com/uc?export=view&id=1u2xaYnAAr4kqQgITDes6OnbFl21rQTa3)
 
 After git initialiazing "git status" show Untracked & Modified file then we Staged these file and Commit to save Unmodified.
+
 ![image](https://drive.google.com/uc?export=view&id=10Fog2JVuNRxBj205C1vum87H734AoEd6)
 
 ## Basic Usages -
